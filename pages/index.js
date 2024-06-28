@@ -1,5 +1,13 @@
 function Home() {
-  return <h1>Olá Ana Luisa, você é sensacional.</h1>;
+  return (
+    <div>
+      <h1>Olá Família.</h1>
+      <p>
+        Em breve um novo pedacinho da internet dedicado a maior lenda gamer irá
+        aparecer por aqui.
+      </p>
+    </div>
+  );
 }
 
 export default Home;
